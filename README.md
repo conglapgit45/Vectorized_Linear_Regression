@@ -1,0 +1,2 @@
+# Vectorized_Linear_Regression
+Linear Regression using Vectorization
